@@ -1,0 +1,10 @@
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15algoritm\bin\Debug\Prakt15algoritm.exe.config
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15algoritm\bin\Debug\Prakt15algoritm.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15algoritm\bin\Debug\Prakt15algoritm.pdb
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15algoritm\obj\Debug\Prakt15algoritm.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15algoritm\obj\Debug\Prakt15algoritm.Form1.resources
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15algoritm\obj\Debug\Prakt15algoritm.Properties.Resources.resources
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15algoritm\obj\Debug\Prakt15algoritm.csproj.GenerateResource.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15algoritm\obj\Debug\Prakt15algoritm.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15algoritm\obj\Debug\Prakt15algoritm.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Prakt15algoritm\obj\Debug\Prakt15algoritm.pdb
